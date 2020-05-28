@@ -21,7 +21,6 @@ rs.initiate(
     ]
   }
 )
-
 rs.status()
 ```
 
